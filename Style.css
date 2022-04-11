@@ -1,0 +1,580 @@
+*{
+    margin: 0;
+    padding: 0;
+  
+}
+.divider01{
+    width: 1515px;
+    height: 7px;
+    display: inline-block;
+    background-color: blueviolet;
+}
+.header{
+    height: 100%;
+  
+}
+.navbar-style{
+   border-top: 20px 30px blueviolet;
+  
+}
+.header .container{
+   
+   padding: 0px;
+    margin: 0px;
+    width: 2000px;
+    box-shadow: 60px blueviolet;
+}
+.logo{
+    height: 90px;
+    padding: 20px 250px;
+}
+.btnn{
+    margin-top: 40px;
+    float: right;
+    right: 40px;
+  color: blueviolet;
+    font-size: 20px;
+}
+.mainn{
+    margin: 5px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+}
+
+.imgn{
+    height: 550px;
+    width:1500px;
+    position: absolute;
+}
+.img2{
+position: absolute;
+width: 500px;
+height: 440px;
+margin-right: 100px;
+right: 410px;
+margin-top: 50px;
+}
+.bosex02{
+    color:blueviolet;
+    position: absolute;
+    margin-top: 180px;
+    margin-right: 100px;
+    right: 555px;
+    font-size: 25px;
+
+}
+.bosex03{
+    color:blueviolet;
+    position: absolute;
+    margin-top: 230px;
+    margin-right: 100px;
+    right: 620px;
+   font-size: 35px;
+}
+
+.bosex04{
+    color:blueviolet;
+    position: absolute;
+    margin-top: 290px;
+    margin-right: 100px;
+    right: 530px;
+   font-size: 20px;
+
+}
+.bosex05{
+    color:blueviolet;
+    position: absolute;
+    margin-top: 357px;
+    margin-right: 100px;
+    right: 634px;
+   font-size: 20px;
+
+}
+
+.img3{
+    height: 700px;
+    width: 3000px;
+margin-left: -700px;
+left: -200px;
+}
+.half{
+   padding: 0px;
+}
+.msg{
+    position: absolute;
+    top: 700px;
+    margin-left: 300px;
+   left: 370px;
+    color: blueviolet;
+    margin-top: 5px;
+    padding-top: -30px;
+}
+.main-img{
+    padding-top: 20px;
+    margin-left: 200px;
+   left: 100px;
+    padding: 40px;
+
+}
+.yogimg{
+    float: left;
+    left: 70px;
+    width: 20px;
+    margin-right: 220px;
+    padding-top: -30px;
+    margin-left: 70px;
+
+}
+.imgpng{
+    width: 220px;
+    height: 180px;
+    
+}
+
+.info h3{
+    color: blueviolet;
+}
+.info p{
+   color: blueviolet;
+    
+}
+.divider{
+    width: 280px;
+    height: 1px;
+    display: inline-block;
+    background-color: blueviolet;
+}
+h5{
+    color: blueviolet;
+}
+.button{
+
+    margin-bottom: 30px;
+   
+    padding-bottom: 30%;
+}
+.btn01{
+    position: absolute;
+    display: block;
+   border: white solid;
+    font-size: 20px;
+    padding: 10px 10px;
+    top: 100%;
+    width: 20%;
+    background:blueviolet;
+    color: white;
+    padding-left: -50px;
+    border-radius: 20px;
+    outline: none !important;
+    box-sizing: border-box;
+    margin: auto;
+    margin-left: 360px;
+  margin-top: 550px;
+    
+}
+ .banner02{
+    width: 1530px;
+    height: 800px;
+    position: absolute;
+}
+.sumoff1{
+    position: absolute;
+    width: 500px;
+height: 440px;
+margin-right: 100px;
+right: 550px;
+margin-top: 250px;
+font-size: 40px;
+color: white;
+}
+.date1{
+    color: white;
+    position: absolute;
+    margin-top: 400px;
+    margin-right: 100px;
+    right: 930px;
+}
+
+.img11{
+    height: 1500px;
+    width: 600%;
+   
+}
+.img11msg{
+    position: absolute;
+    width: 500px;
+height: 440px;
+margin-right: 100px;
+right: 550px;
+margin-top: -620px;
+font-size: 40px;
+color: blueviolet;
+}
+.img11info02{
+    position: absolute;
+    width: 500px;
+  margin-right: 100px;
+right: 550px;
+margin-top: -500px;
+font-size: 25px;
+color: blueviolet;
+
+}
+.img11info03{
+    position: absolute;
+    width: 500px;
+  margin-right: 100px;
+right: -100px;
+margin-top: 40px;
+font-size: 20px;
+color: blueviolet;
+
+}
+.divider04{
+    position: absolute;
+    width: 400px;
+  margin-right: 10px;
+left: 370px;
+margin-top: -320px;
+font-size: 20px;
+color: blueviolet;
+}
+
+.img13{
+    position: absolute;
+    margin-right: 50px;
+    right: 300px;
+    width: 380px;
+    height: 340px;
+    margin-top: -600px;
+}
+.img113{
+    position: absolute;
+    margin-right: 30px;
+    right: 340px;
+    margin-top: -280px;
+
+}
+
+.modules01{
+    position: absolute;
+    width: 400px;
+  margin-right: 10px;
+left: 370px;
+margin-top: -280px;
+font-size: 20px;
+color: blueviolet;
+
+}
+.startp{
+    position: absolute;
+    width: 400px;
+  margin-right: 10px;
+left: 370px;
+margin-top: -200px;
+word-spacing: 80px;
+font-size: 20px;
+color: blueviolet;
+
+}
+
+.startprice{
+    position: absolute;
+    width: 400px;
+  margin-right: 10px;
+left: 370px;
+margin-top: -180px;
+font-size: 2px;
+word-spacing: 70px;
+font-size: 20px;
+color: blueviolet;
+
+}
+
+.startprice01{
+    position: absolute;
+    width: 400px;
+  margin-right: 10px;
+left: 370px;
+margin-top: -150px;
+font-size: 2px;
+font-size: 20px;
+color: blueviolet;
+
+}
+.right01{
+    margin-top: -90px;
+}
+.rightmsg01{
+    position: absolute;
+    margin-right: 50px;
+    right: 340px;
+    color: blueviolet;
+    width: 380px;
+    height: 340px;
+    margin-top: -650px;
+
+}
+.img11info05{
+    position: absolute;
+    width: 500px;
+  margin-left: 250px;
+left: 500px;
+margin-top: -540px;
+font-size: 25px;
+color: blueviolet;
+
+
+}
+.img11info04{
+    position: absolute;
+    width: 500px;
+  margin-left: 250px;
+left: -250px;
+margin-top: 40px;
+font-size: 20px;
+color: blueviolet;
+}
+
+.img9{
+    width: 370px;
+    height: 350px;
+    margin-left: 330px;
+    margin-top: -1000px;
+
+}
+.img101{
+    position: absolute;
+    margin-left: 30px;
+    left: 340px;
+    margin-top: -370px;
+}
+.modules103{
+    position: absolute;
+    margin-left: 50px;
+    left: 700px;
+    color: blueviolet;
+    width: 380px;
+    margin-top: -370px;
+    font-size: 18px;
+}
+.startp0{
+    position: absolute;
+    width: 400px;
+  margin-left: 50px;
+left: 700px;
+margin-top: -290px;
+word-spacing: 80px;
+font-size: 20px;
+color: blueviolet;
+     
+}
+.startprice1{
+    position: absolute;
+    width: 400px;
+  margin-left: 50px;
+left: 700px;
+margin-top: -270px;
+word-spacing: 80px;
+font-size: 20px;
+color: blueviolet;
+
+}
+.startprice02{
+    position: absolute;
+    width: 400px;
+  margin-left: 50px;
+left: 700px;
+margin-top: -245px;
+word-spacing: 80px;
+font-size: 20px;
+color: blueviolet;
+
+}
+.center1{
+    text-align: center;
+    margin: 100px;
+    margin-top: -150px;
+    color: blueviolet;
+}
+
+.cent01::before, .cent01::after{
+    content: '';
+    position: absolute;
+    display: inline-block;
+    position: relative;
+    margin: auto;
+    height: 2px;
+    width: 45px;
+    top: 45%;
+}
+.feeding1{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    right: -450px;
+
+}
+.feed1{
+    position: absolute;
+    margin-right: 200px;
+}
+
+.feeding2{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    right: 773px;
+
+}
+.feeding3{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    right: 500px;
+}
+.summer02{
+    text-align: center;
+    margin-top: 300px;
+    color: blueviolet;
+}
+.button1{
+    margin-bottom: 70px;
+   
+    padding-bottom: 50%;
+}
+
+.btn02{
+    position: absolute;
+    display: block;
+   border: yellow;
+    font-size: 20px;
+    padding: 10px 10px;
+    top: 100%;
+    width: 20%;
+    background:blueviolet;
+    color: white;
+    padding-left: -50px;
+    border-radius: 20px;
+    outline: none !important;
+    box-sizing: border-box;
+    margin: auto;
+    margin-left: 360px;
+  margin-top: 3680px;
+    
+
+}
+.img000{
+    margin-top: 300px;
+}
+
+.sidemsg1{
+    position: absolute;
+    margin-left: 30px;
+    left: 300px;
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: -450px;
+  
+}
+
+.foot2{
+    position: absolute;
+    margin-top: -600px;
+    margin-right: 100px;
+    right: 650px;
+}
+.footmsf1{
+    position: absolute;
+    margin-top: -500px;
+    margin-right: 100px;
+    right: 500px;
+    font-size: 20px;
+    color: blueviolet;
+    
+}
+.foot3rd1{
+    position: absolute;
+    margin-top: -350px;
+    margin-right: 100px;
+    right: 650px;
+}
+.div01msg{
+    position: absolute;
+    margin-top: -270px;
+    margin-right: 100px;
+    right: 900px;
+    color: blueviolet;
+
+}
+.divmsg01{
+    position: absolute;
+    margin-top: -220px;
+    margin-right: 100px;
+    right: 400px;
+    word-spacing: 40px;
+    color: blueviolet;
+}
+.divinfo{
+    position: absolute;
+    margin-top: -180px;
+    margin-right: 100px;
+    right: 400px;
+    word-spacing: 73px;
+    color: blueviolet;
+}
+.divinfo2{
+    position: absolute;
+    margin-top: -150px;
+    margin-right: 100px;
+    right: 380px;
+    word-spacing: 73px;
+    color: blueviolet;
+}
+.divinfo3{
+    position: absolute;
+    margin-top: -120px;
+    margin-right: 100px;
+    right: 413px;
+    word-spacing: 73px;
+    color: blueviolet;
+}
+.divinfo4{
+    position: absolute;
+    margin-top: -100px;
+    margin-right: 100px;
+    right: 400px;
+    word-spacing: 73px;
+    color: blueviolet;
+}
+.footlogo1{
+    position: absolute;
+    margin-top: -140px;
+    margin-right: 100px;
+    right: 1040px;
+    width: 150px;
+    height: 50px;
+    color: blueviolet;
+
+}
+.heading{
+    position: absolute;
+    margin-top: 100px;
+    margin-right: 100px;
+    right: 376px;
+    word-spacing: 180px;
+    color: blueviolet;
+}
+
+@media screen and (max-width: 600px)
+{
+     logo{
+         font-size: 36px;
+         line-height: 50px;
+     }
+}
